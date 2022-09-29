@@ -1,5 +1,5 @@
 - 👋  Olá, me chamo italo alves. Formado em analise e desemvolvimento de sistemas ,atuando 
-nas areas: comerciais e logisticas .atualmente em processo de migração de área para ciencia de dados .
+nas areas: comerciais e logisticas .atualmente em processo de migração área para ciencia de dados .
 - 👀 Java,Python,BI
 
 
